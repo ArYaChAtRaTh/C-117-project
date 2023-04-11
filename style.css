@@ -1,0 +1,15 @@
+#show_sketch {
+    float: right;
+}
+body {
+    background-color: yellow;
+}
+
+#score {
+    float: left;
+    color: black;
+}
+
+#timer {
+    float: right;
+}
